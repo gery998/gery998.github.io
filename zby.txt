@@ -1911,4 +1911,4 @@ WOWOWシネマ,http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzase
 第44集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/44.mp4
 第45集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/45.mp4
 第46集,http://personcloud.woican.cn/A%3A/video/teleplay/qinyunian/46.mp4
-
+dongsen，tvbus://1sdcpZcbze1tYZTfySSc3NzzG4rFpWhHKkzshvGEUEPUYqDAGR#@
